@@ -1,0 +1,3 @@
+[submodule "retrowave-scene"]
+	path = retrowave-scene
+	url = https://github.com/Moukrea/retrowave-scene.git
